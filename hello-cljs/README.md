@@ -10,3 +10,6 @@ clj -M --main cljs.main --repl-opts "{:launch-browser false}" --compile hello-wo
 ```   
 (hello/average 20 13)
 ```   
+```   
+clj -M -m cljs.main --help
+```   
