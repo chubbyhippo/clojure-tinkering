@@ -1,2 +1,4 @@
 .cpcache/
 /out/
+.lsp/
+.clj-kondo/
