@@ -1,1 +1,1 @@
-[reading](https://www.learn-clojurescript.com/section-0/lesson-1-a-first-look/#a-powerful-language)
+[reading](https://www.learn-clojurescript.com/section-1/lesson-5-bootstrapping-a-clojurescript-project/#understanding-clj)
