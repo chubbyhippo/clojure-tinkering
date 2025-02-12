@@ -13,3 +13,9 @@ clj -M --main cljs.main --repl-opts "{:launch-browser false}" --compile hello-wo
 ```   
 clj -M -m cljs.main --help
 ```   
+```   
+clj -M -m cljs.main --optimizations advanced -c hello-world.core
+```   
+```   
+clj -M -m cljs.main --serve
+```   
