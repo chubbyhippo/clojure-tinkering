@@ -4,4 +4,4 @@
 clj -X:clj-new :template figwheel-main :name learn-cljs/weather :args '["+deps" "--reagent"]'
 ```
 ## reading
-[reading](https://www.learn-clojurescript.com/section-1/lesson-5-bootstrapping-a-clojurescript-project/#understanding-clj)
+[reading](https://www.learn-clojurescript.com/section-1/lesson-6-receiving-rapid-feedback-with-figwheel/)
