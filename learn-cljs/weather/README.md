@@ -4,7 +4,7 @@
 ## Development
 
 ```shell
-clj -M:fig:build
+clj -A:fig:build
 ```
 
 This will auto compile and send all changes to the browser without the
